@@ -1,1 +1,1 @@
-# eb-ios
+# EB for iOS
